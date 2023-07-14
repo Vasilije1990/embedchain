@@ -33,7 +33,6 @@ setuptools.setup(
         "pypdf",
         "pytube",
         "lxml",
-
         "sentence_transformers",
         "docx2txt",
         "pydantic==1.10.8",
